@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_background.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\app_background.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorites.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\favorites.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\cc.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aboutusimg.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\aboutusimg.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_unselected.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgstar.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\bgstar.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aboutusimg.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\aboutusimg.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_select.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\contact_select.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noimages.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\noimages.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_fav.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_fav.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorites.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\favorites.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_contact.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\post.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_press.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_press.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searchbg.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\searchbg.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_contact.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noimages.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\noimages.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remove_icn1_30.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\remove_icn1_30.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_bg.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\text_bg.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_about.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_about.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgstar.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\bgstar.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\frame.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addbut_hover.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\addbut_hover.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_divider.9.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_divider.9.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\photo.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_unselected.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\namebar.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\namebar.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_select.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\contact_select.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searchicon.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\searchicon.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorites_select.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\favorites_select.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_background.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\app_background.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_focus.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_focus.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedittext.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\roundedittext.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addbut_hover.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\addbut_hover.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_bg.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\text_bg.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addbut.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\addbut.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_select.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\about_select.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_about.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_about.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searchbg.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\searchbg.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\cc.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedittext.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\roundedittext.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deleteicon.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\deleteicon.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\viewbut.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\viewbut.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_press.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_press.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_fav.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_fav.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_home.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addbut.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\addbut.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remove_icn1_30.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\remove_icn1_30.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searchicon.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\searchicon.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\viewbut.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\viewbut.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\namebar.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\namebar.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\frame.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorites_select.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\favorites_select.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_select.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\home_select.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_select.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\about_select.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home.xml",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\tab_home.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_focus.xml",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_focus.xml"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\post.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deleteicon.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\deleteicon.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_divider.9.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\tab_divider.9.png"
+    },
+    {
+        "merged": "F:\\TestNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_select.png",
+        "source": "F:\\TestNew\\app\\src\\main\\res\\drawable\\home_select.png"
+    },
+    {
+        "merged": "F:\\TestNew\\CookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo.png",
+        "source": "F:\\TestNew\\CookBook\\app\\src\\main\\res\\drawable\\photo.png"
+    }
+]

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp" >
+
+        <TextView
+            android:id="@+id/headerdetail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/header"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="new header"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp" />
+
+            <ImageView
+                android:id="@+id/imgdetail"
+                android:layout_width="300dp"
+                android:layout_height="145dp"
+                android:layout_gravity="center"
+                android:background="@drawable/noimages"
+                android:padding="10dp" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp" >
+
+                <TextView
+                    android:id="@+id/txtitemname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="State"
+                    android:textColor="#ff5600"
+                    android:textSize="22sp"
+                    android:textStyle="italic"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ingredients"
+                    android:textColor="#ff5600"
+                    android:textSize="22sp"
+                    android:textStyle="italic" />
+
+                <!--  <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="*"
+                        android:textColor="#333300"
+                        android:textSize="18sp" />
+
+                    <View
+                        android:layout_width="5dp"
+                        android:layout_height="1dp" /> -->
+
+                   <WebView 
+                        android:id="@+id/txtdetaildesc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Catergory"
+                        android:textColor="#333300"
+                        android:textSize="18sp" />
+<!--                 </LinearLayout> -->
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Direction"
+                    android:textColor="#ff5600"
+                    android:textSize="22sp"
+                    android:textStyle="italic" />
+
+                <WebView   
+                    android:id="@+id/txtdetaildirection"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="direction"
+                    android:textColor="#333300"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <View
+                    android:layout_width="10dp"
+                    android:layout_height="15dp" />
+
+                <Button
+                    android:id="@+id/favbutton"
+                    android:layout_width="112dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/addbut" />
+
+                <View
+                    android:layout_width="300dip"
+                    android:layout_height="15dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:text="Rating"
+                    android:textColor="#333300"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+                <RatingBar
+                    android:id="@+id/ratingBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bgstar"
+                    android:focusableInTouchMode="true"
+                    android:numStars="5"
+                    android:stepSize="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:text="Name"
+                    android:textColor="#333300"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+                <EditText
+                    android:id="@+id/edtname"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/txtitemname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:padding="5dp"
+                    android:text="Write Comments"
+                    android:textColor="#333300"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+                <EditText
+                    android:id="@+id/edtcomment"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textMultiLine" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="15dp" >
+
+                <View
+                    android:layout_width="50dp"
+                    android:layout_height="1dp" />
+
+                <Button
+                    android:id="@+id/btnviewreview"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/viewbut" android:text="View Review" android:textColor="#ffffff" android:textStyle="bold"/>
+
+                <View
+                    android:layout_width="10dp"
+                    android:layout_height="1dp" />
+
+                <Button
+                    android:id="@+id/btnpost"
+                    android:layout_width="50dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/post" android:text="POST" android:textColor="#ffffff" android:textStyle="bold"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
